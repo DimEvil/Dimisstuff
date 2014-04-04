@@ -21,3 +21,32 @@ During the meeting we will have on April 4th, the Platform will ask the Lifewatc
 ### Conclusion
 
 It is clear that `The Role Of the Platform` in Lifewatch is stronly dependant on ERIC and what Lifewatch will become. The Platform is willing to take up an active role for Lifewatch, when this will have an added value for the project, the community and the Platform (by example National Lifewatch Node). In the meantime we will start soon enough with the preparation of the e-infrastructure conference by creating a `taskforce` during the next CM. Other tasks for the platform can be defined during the meeting, on request by the existing Lifewatch community in Belgium (Vliz, INBO, UcL,....)
+
+### outcomes of the meeting
+
+The platform can help in providing content to lifewatch.be, as can the other Belgian lifewatch partners.
+
+
+###Action Points
+
+##
+
+Accounts for dms lifewatch.be
+Redesign the lifewatch.be webstite
+
+National node role: wait for the Eric (service centre)
+
+being inclusive --> 
+The platfrom as the "national service centre"
+
+Taxonomical backbone! Check what the museum does....
+
+regular meeting on technical issues & communication
+
+E-infrasctructure meeting (go)
+
+Ucl --> networkbuilding (find persons create a network...)
+
+###next meeting on the conference.
+
+	

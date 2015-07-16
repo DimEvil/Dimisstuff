@@ -20,7 +20,7 @@ After a nice lunch in the Atrium of the Palace of the Academies, surrounded by P
 To conclude, we really enjoyed this fun-filled and informative day in the Palace of the Academies and sincerely hope that it helped to empower biodiversity research in Belgium. Clearly, this is just the start! We would also like to thank our partners for co-organizing this conference. Without their support, organizing this great day would not have been possible.
 Registration for the workshops and all the presentations are available on the conference website [www.biodiversity.be/conference2015](www.biodiversity.be/conference2015). 
 
-### Facts and figures
+### Scientific Advisory Committee & cooperation
 
 The Empowering Biodiversity Research conference was organized in cooperation with most of the Belgian key players in the Biodiversity Informatics field. The members of the "scientific advisory committee" the so called SAC are listed below. 
 
@@ -80,3 +80,39 @@ framework of a Taxonomic Backbone for LifeWatch |Klaas Deneudt	|VLIZ
 16:20 (10m)	|Closing	
 16:30 (60m) |	Networking event + Biodiversity Fair	
 
+###Facts and Figures
+
+**Venue:** Palace of the Academies
+**Rooms:** Auditorium Albert II and The Atrium
+**Actual participants:*** 141
+**Number of market stands:** 9
+
+
+###Financial
+
+Foreseen:
+
+|Prijs (in EURO) |INBO |Belspo 
+-----|-----|
+Zaal |2.000 | 2.000 |---
+Reis en verblijf buitenlandse sprekers| 500 |--| 500
+Catering (welkom, koffiepauzes,lunch) |2500| --|2500
+Biodiversity Market |1000|--| 1000 
+Networking Event| 1000 |1000|-- 
+Minsc |1000|-- | 1.000 
+Total |7500|3000 | 4500 
+
+Actual:
+
+|Prijs (in EURO) |INBO |Belspo 
+-----|-----|
+Zaal |2.000 | 2.000 |---
+Reis en verblijf buitenlandse sprekers| 402 |--| 402
+Catering (welkom, koffiepauzes,lunch, networking event) |4087| --|4087
+Biodiversity Market |616,43|--| 616,43 
+Networking Event| 0 |0|-- 
+Minsc |52| 52 | -- 
+Total |7157|2052 | 5105 
+
+
+###Evaluation

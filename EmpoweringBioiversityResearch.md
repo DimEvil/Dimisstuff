@@ -1,5 +1,5 @@
-#Report Empowering Biodiversity  Research Conference
-
+![](http://i.imgur.com/ZP5uUpk.jpg)
+#Report 
 ##May 21 2015
 
 ###Introduction
@@ -19,6 +19,13 @@ In the subsequent plenary session, there was time for a series of lightning talk
 After a nice lunch in the Atrium of the Palace of the Academies, surrounded by Posters and informative market stands, the participants returned to the plenary for an information session on the post conference workshops which will be organized by the different partners on selected topics. Last but not least, there were five Belgian Biodiversity Informatics showcases: i.e. on Bird tracking, remote sensing, the Lifewatch taxonomic backbone, Antarctic biodiversity and legacy literature which all gave very insightful views on the power of Biodiversity Informatics!
 To conclude, we really enjoyed this fun-filled and informative day in the Palace of the Academies and sincerely hope that it helped to empower biodiversity research in Belgium. Clearly, this is just the start! We would also like to thank our partners for co-organizing this conference. Without their support, organizing this great day would not have been possible.
 Registration for the workshops and all the presentations are available on the conference website [www.biodiversity.be/conference2015](www.biodiversity.be/conference2015). 
+
+
+<div style="page-break-after: always;">
+<span style="display: none;">&nbsp;</span>
+</div>
+
+
 
 ### Scientific Advisory Committee & cooperation
 
@@ -40,6 +47,9 @@ Belgian Biodiversity Platform	|Hilde Eggermont
 Belspo	|Aline Van der Werf
 Belgian Biodiversity Platform	|André Heughebaert
 Gembloux Agro Bio-tech|	Jessica Delangre
+
+
+----------
 
 
 ###Program
@@ -80,6 +90,11 @@ framework of a Taxonomic Backbone for LifeWatch |Klaas Deneudt	|VLIZ
 16:20 (10m)	|Closing	
 16:30 (60m) |	Networking event + Biodiversity Fair	
 
+
+<div style="page-break-after: always;">
+<span style="display: none;">&nbsp;</span>
+</div>
+
 ###Facts and Figures
 
 **Venue:** Palace of the Academies
@@ -92,11 +107,11 @@ framework of a Taxonomic Backbone for LifeWatch |Klaas Deneudt	|VLIZ
 
 Foreseen:
 
-|Prijs (in EURO) |INBO |Belspo 
+|Price (€ EURO)  |INBO |Belspo 
 -----|-----|
-Zaal |2.000 | 2.000 |---
-Reis en verblijf buitenlandse sprekers| 500 |--| 500
-Catering (welkom, koffiepauzes,lunch) |2500| --|2500
+Venue |2.000 | 2.000 |---
+Travel & Hotel Keynote speaker| 500 |--| 500
+Catering (welcome, coffee, lunch) |2500| --|2500
 Biodiversity Market |1000|--| 1000 
 Networking Event| 1000 |1000|-- 
 Minsc |1000|-- | 1.000 
@@ -104,15 +119,154 @@ Total |7500|3000 | 4500
 
 Actual:
 
-|Prijs (in EURO) |INBO |Belspo 
+|Price (€ EURO) |INBO |Belspo 
 -----|-----|
-Zaal |2.000 | 2.000 |---
-Reis en verblijf buitenlandse sprekers| 402 |--| 402
-Catering (welkom, koffiepauzes,lunch, networking event) |4087| --|4087
+Venue |2.000 | 2.000 |---
+Travel & Hotel Keynote speaker| 402 |--| 402
+Catering (welcome, coffee,lunch, networking event) |4087| --|4087
 Biodiversity Market |616,43|--| 616,43 
 Networking Event| 0 |0|-- 
 Minsc |52| 52 | -- 
 Total |7157|2052 | 5105 
 
+<div style="page-break-after: always;">
+<span style="display: none;">&nbsp;</span>
+</div>
 
 ###Evaluation
+
+![](http://i.imgur.com/qgoaA5q.png)
+![](http://i.imgur.com/FxE08AC.png)
+![](http://i.imgur.com/72X28RV.png)
+![](http://i.imgur.com/2dpOSm3.png)
+![](http://i.imgur.com/d4Trb2T.png)
+![](http://i.imgur.com/1G01a4n.png)
+![](http://i.imgur.com/YzstAf1.png)
+
+
+Overall, the conference was evaluated very positive and find to be worthwhile. One point made in an evaluation was that the "showcases" had to be more interactive. And more explanatory. If there is a next Belgian Biodiversity Informatics conference we should keep this in mind.
+
+### Conference Follow up.
+
+We will not publish any proceedings of the conference. The goal of the conference is to get scientists together in Belgium in the field of Biodiversity informatics. In 3-5 years, when all the presented projects have nice results, the platform cold eventually organize a follow up conference.
+
+
+###After conference workshops.
+
+Later this year, a series of workshops will be organized related to the conference theme and under the conference logo. The workshops are primarily organized by the institutions who host the workshops.
+
+**Data Carpentry Workshop**
+Data Carpentry is a is a non-profit organization whose members teach researchers basic software skills. They are a sister organization to the well known Software Carpentry. In many fields a lack of data and computer processing time is not the greatest limitation to generating results. A bigger problem is efficiently handling all these data and applying powerful statistical techniques. The goal of this course is to make researchers more effective and productive. The syllabus is for scientists with little to no prior knowledge of programming, shell scripting, or command line tools.
+
+Some of the skills that are taught are...
+
+  How to use spreadsheet programs (such as Excel) more effectively and what are they not good for.
+  Getting data out of spreadsheets and into more powerful tools using R or Python.
+  Using databases, including managing and querying data in SQL.
+  Workflows and automating repetitive tasks, in particular using the command line shell and shell scripts.
+Practicalities:
+
+Organizer: Botanic Garden Meise Duration: Two days Participants: max 30 Venue: BELSPO Date: 2nd-3rd November 2015.Price: to be determined
+
+Contact: Quentin Groom
+
+
+**Data Cleaning and Data Publication workshop**
+GBIF or the Global Biodiversity Information Facility is an international open data infrastructure, funded by governments. It allows anyone, anywhere to access biodiversity data about all types of life on Earth, shared across national boundaries via the Internet.
+
+During this hands-on workshop we will dig into the process of data cleaning by using OpenRefine and the publication of biodiversity data on the GBIF network. We will familiarize with the GBIF network and the Darwin Core standard, a standard used by GBIF for sharing biodiversity data. We will standardize our biodiversity data and learn to use the Integrated Publishing Toolkit (IPT) to map and create Darwin Core-Archives and publish our data online. We will also have a look at the recent developed ideas on publishing sample based data through the IPT. Off course we will spend some time on why we should publish under CC0 (Creative commons Open data waiver) and the importance of metadata in biodiversity datasets.
+
+Some of the skills that are taught are...
+
+How to use the Integrated Publishing Toolkit
+Basic OpenRefine skills
+Standardizing your data to the Darwin Core standard
+Basic metadata
+Work with Darwin Core -Archives
+How to use the GBIF portal
+Practicalities:
+
+Organizer: Belgian Biodiversity Platform, INBO, RBINS & RMCA Duration: One day Participants: max 15 Venue: Belspo, Brussels Date: November 09 (2015) Price: 10€
+
+Use this form to register
+
+Contact: Dimitri Brosens
+
+ 
+
+**Data Paper workshop**
+A data paper is a searchable metadata document, describing a particular dataset or a group of datasets, published in the form of a peer-reviewed article in a scholarly journal. The primary purpose of a data paper is to describe data and the circumstances of their collection, rather than to report hypotheses and conclusions. A datapaper is a mean of bringing credit and recognition to all those involved in data publication and to alert the scientific community to the existence of biodiversity datasets and the value they can bring to particular research projects and as a mechanism for quality assessment and control of data accessible through GBIF and other networks.  
+
+During this hands-on workshop we will continue the work we did on the data publication and extend the metadata in a scholary publication which later can be submitted to scientific Journals like Zookeys, Phytokeys, Biodiversity Data Journal or Nature Scientific Data.  .
+
+Some of the skills that are taught are...
+
+Writing a data paper
+Use of the Pensoft writing tool
+The use of Github, google.doc for datapapers
+Practicalities:
+
+Organizer: Belgian Biodiversity Platform & INBO Duration: One day Participants: max 15 Venue: Belspo, Brussels Date: November 13 (2015) Price: 10€
+
+Note: It is advised that you followed the Data Publication and Cleaning workshop, or already published data on the GBIF network when you participate to this workshop
+
+Use this form to register
+
+Contact: Dimitri Brosens
+
+**GIS and WebGIS Workshop**
+Lifewatch is the European Infrastructure for biodiversity research. Belgium is contributing to Lifewatch through several in kind projects. One of those projects consists in building rich geographic database based on remote sensing and GIS analysis. Getting a grip on large geographic datasets is indeed a time consuming task for building valuable ecological models. The goal of this course is to learn how to manipulate the Lifewatch geographic datasets with open source GIS and WebGIS software. 
+
+Some of the skills that are taught are...
+
+  Introduction to QGIS
+  How to extract information from vector and raster datasets
+  Building a simple suitability map based on Lifewatch dataset
+  Using spatial queries to identify  observation outliers
+  Displaying data on the Web with CartoDB
+Practicalities:
+
+Organizers: Université catholique de Louvain & INBO  Duration: Three days Participants: max 25 Venue: Louvain-la-Neuve  Date:September 14-15-16 (2015) Price: to be determined €
+
+Use this form to register
+
+Contact: Julien Radoux
+
+ 
+
+**Data analysis workshop**
+Biodiversity data preparation and analysis using LifeWatch virtual labs and web services
+LifeWatch is building an European infrastructure (http://lifewatch.eu) to support biodiversity research and ecosystem studies. Within the envisaged e-infrastructure of LifeWatch, data exchange and data analysis are largely based on the use of web services. Building on the LifeWatch Taxonomic Backbone (http://lifewatch.be/en/taxonomic_backbone), a growing number of these web services is being set up. Workflows or Virtual Labs are being developed making use of these services to automate recurring data preparation and analysis tasks. The goal of this course is to get researchers introduced with the advantages of using web services, get acquainted with existing Virtual Labs and workflows and build their own workflows on top of the available services. 
+
+Some of the skills that are taught are...
+
+Retrieving and working with web services (REST, OGC WMS/WFS, Biodiversity catalogue, GeoNetwork, etc.)
+Biodiversity data standardization and quality control (taxon matching, geographic quality control, etc.)
+Building analysis workflows in R, Taverna, LifeWatch e-lab (http://lifewatch.be/en/e-lab), etc.
+Organizers: VLIZ-Flanders Marine Institute Duration: one and a half - two days Venue: Oostende Date: November 26-27 (2015) Price: free
+
+Use this form to register
+
+Contact: Klaas Deneudt
+
+ 
+
+**Species Distribution modelling workshop**
+Correlative distribution models are useful tools for a variety of biological applications including the identification of biodiversity hotspots, the design of ecological networks, the monitoring of animal and vegetal populations, the selection of suitable sites for species reintroductions or habitat restoration, the management of invasive species and the prediction of climate change impacts. In this workshop, the whole process of species distribution modelling will be reviewed, from data preparation to model evaluation. Several modelling algorithms will be tested and compared, using the BIOMOD package implemented in R.
+
+Some of the skills that are taught are...
+
+Species distribution modelling
+R
+The use of the BIOMOD package in R
+Organisers: Dirk Maes (INBO), Jessica Delangre (Ulg), Julien Radoux (UcL), Marc Dufrêne(Ulg) Duration: 3 days Venue: Louvain-la-Neuve Data: September  21- 23 (2015) Price: free
+
+Use this form to register
+
+Contact: Jessica Delangre
+
+
+
+
+
+

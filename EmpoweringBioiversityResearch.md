@@ -1,1 +1,19 @@
+#Report Empowering Biodiversity  Research Conference
 
+##May 21 2015
+
+###Introduction
+There is a world of tools, standards and data out there, ready for you to use. Biodiversity Informatics deals with the application of informatics techniques to biodiversity information for improved management, presentation, discovery, exploration and analysis of scientific data. Combined with open data sources on the Internet, this is a powerful new approach in doing research. During this conference, organised by the Belgian Biodiversity Platform and several key institutes, we would like to take you on a trip to the world of biodiversity informatics & open data. After this conference a series of related workshops will be organized.
+
+###Narrative
+On May 21st 2015, some 140 participants (biodiversity researchers, policy-makers and other stakeholders) gathered in the Palace of the Academies, in the centre of Brussels for the **“Empowering Biodiversity Research”** conference. This conference was organized by the Belgian Biodiversity Platform and several key institutes and universities in the field of Biodiversity Informatics, with the aim to inform on ongoing Biodiversity Informatics initiatives in Belgium and reinforce further collaboration amongst actors.
+Three keynotes kicked off the meeting. 
+
+During the first keynote, an introduction to the Belgian Biodiversity Informatics landscape was given by Hilde Eggermont, the scientific coordinator of the Belgian Biodiversity Platform.  After that, Vince Smith of the Natural History Museum in London impressed us with a talk on the Future of Biodiversity Informatics, not only illustrating the current power of Biodiversity Informatics but also its future potential.  Finally, the third keynote by Pieter Colpaert on the Controversy within publishing Open Data on the web was very convincing on the benefits of Open (biodiversity) Data.
+
+After a small panel discussion with the keynote speakers, the audience prepared for the Biodiversity Informatics Fair, set up as some kind of a market place where several key Biodiversity Informatics initiatives were presented.  The poster session organized during this fair was also well appreciated by the attendees. Very impressive during the fair was the Belgian Lifewatch stand and the stand of the Botanic garden Meise, even decorated with living plants.  Together with other stands from the Africamuseum, RBINS, Avia-Gis, the Platform and the Belgian Open Knowledge foundation, they  gave a pretty good picture of ongoing Biodiversity Informatics initiatives in Belgium. Similarly, initiatives like CETAF, Synthesis, GBIF, TDWG and many others were all put in the spotlights.
+
+In the subsequent plenary session, there was time for a series of lightning talks during which selected Biodiversity Initiatives were presented in a quick, insightful, and clear manner.
+After a nice lunch in the Atrium of the Palace of the Academies, surrounded by Posters and informative market stands, the participants returned to the plenary for an information session on the post conference workshops which will be organized by the different partners on selected topics. Last but not least, there were five Belgian Biodiversity Informatics showcases: i.e. on Bird tracking, remote sensing, the Lifewatch taxonomic backbone, Antarctic biodiversity and legacy literature which all gave very insightful views on the power of Biodiversity Informatics!
+To conclude, we really enjoyed this fun-filled and informative day in the Palace of the Academies and sincerely hope that it helped to empower biodiversity research in Belgium. Clearly, this is just the start! We would also like to thank our partners for co-organizing this conference. Without their support, organizing this great day would not have been possible.
+Registration for the workshops and all the presentations are available on the conference website 
